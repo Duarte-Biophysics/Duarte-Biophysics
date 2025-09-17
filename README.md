@@ -1,3 +1,11 @@
 ## Eae gente! :)
 <h1>Eu me chamo Miguel Duarte!</h1>
-<p>*Sou da Fatec</p>
+<p>*Sou aluno da Fatec</p>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duarte-Biophysics/Duarte-Biophysics/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Duarte-Biophysics/Duarte-Biophysics/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Duarte-Biophysics/Duarte-Biophysics/output/pacman-contribution-graph.svg">
+</picture>
