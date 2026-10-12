@@ -1,3 +1,3 @@
-18 anos📆
+19 anos📆
 Cursando ADS(FATEC)💻
 integrante(Estudio Luna @JkDeltaz)🌙
